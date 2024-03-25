@@ -35,7 +35,7 @@ const Project = () => {
         src="/SpaceWebsite.png"
         title="Space Themed Website"
         description="Space themed website created with Next.js"
-        githubLink=""
+        githubLink="https://github.com/erncak/Portfolio"
       />
     </div>
   </div>
